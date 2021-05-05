@@ -28,7 +28,7 @@ const DataTable = () => {
           </tr>
           <tr>
             <td>22/04/2021</td>
-            <td>Clark Kant</td>
+            <td>Kal-El</td>
             <td>25</td>
             <td>15</td>
             <td>11007.00</td>
